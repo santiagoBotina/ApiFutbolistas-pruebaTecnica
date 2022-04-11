@@ -1,0 +1,11 @@
+{
+  "name": "pruebatecnicagraphicmarket",
+  "version": "1.0.0",
+  "description": "Prueba tecnica full-stack para graphic market",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
